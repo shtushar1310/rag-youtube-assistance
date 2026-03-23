@@ -88,3 +88,5 @@ A Retrieval-Augmented Generation (RAG) application built with FastAPI that allow
 ## License
 
 This project is licensed under the MIT License.
+
+![alt text](<Screenshot 2026-03-23 at 15-08-08 YouTube RAG API - Swagger UI.png>)
