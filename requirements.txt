@@ -1,0 +1,13 @@
+# Core LangChain Framework
+langchain
+langchain-core
+langchain-community
+# LLM Integration (Groq)
+langchain-groq
+# Vector Database (ChromaDB)
+langchain-chroma
+chromadb
+# Document Loading & Parsing
+pypdf
+# Environment Variable Management
+python-dotenv
